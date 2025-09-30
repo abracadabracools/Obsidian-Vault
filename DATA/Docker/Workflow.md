@@ -1,5 +1,24 @@
 🐳 [[Docker]]
- 
+
+
+## 🧪 Example Workflow (ETL Pipeline)
+
+1. 🐘 Start Postgres database container
+    
+    `docker run -d --name pgdb -e POSTGRES_USER=root -e POSTGRES_PASSWORD=root postgres:13`
+    
+2. 🐍 Build and run ingestion container
+    
+    `docker build -t ingest:v1 . docker run -it --network=my_net ingest:v1 --db=ny_taxi --url=data.csv`
+    
+3. 📊 Connect with pgAdmin container
+    
+    `docker run -d --network=my_net -p 8080:80 dpage/pgadmin4`
+    
+4. ⚙️ Orchestrate all with Docker Compose
+    
+    `docker-compose up -d`
+
 Workflow – From Start to End (Line Diagram)
 
                ┌────────────────────────────────────────────┐
@@ -76,3 +95,5 @@ Workflow – From Start to End (Line Diagram)
 | 5️⃣  | **Use Volumes & Networks** | Persist data + connect services (e.g. Postgres, scripts) |
 | 6️⃣  | **Compose Orchestration**  | Manage multi-container setups easily                     |
 | 7️⃣  | **Deploy Anywhere**        | Push to cloud or run in production pipelines             |
+
+---

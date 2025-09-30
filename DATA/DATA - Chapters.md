@@ -2,7 +2,6 @@
 
 Glossary of the knowledge !!
 
-- [[Docker]]
-- [[PgADmin]]
-- [[Postgres]]
+- [[Intro]]
+- [[PostgresSQL]]
 - 

@@ -13,142 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA.md",
+                "file": "PostgresSQL/Postgres Elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DATA"
-            }
-          },
-          {
-            "id": "04109183e1f8e529",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intro"
-            }
-          },
-          {
-            "id": "c3f750ca718bacb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Postgres.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Postgres"
-            }
-          },
-          {
-            "id": "59c70b1a0e08c94d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Docker Project (Visual Map).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker Project (Visual Map)"
-            }
-          },
-          {
-            "id": "683d4f3229233d7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Volumes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Volumes"
-            }
-          },
-          {
-            "id": "663ac963772bd7d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Image and Container.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Image and Container"
-            }
-          },
-          {
-            "id": "9131bfcb826cb77e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Workflow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Workflow"
-            }
-          },
-          {
-            "id": "d63bfe6139c2a842",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Postgres.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Postgres"
-            }
-          },
-          {
-            "id": "666cef884d166e37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PgADmin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PgADmin"
-            }
-          },
-          {
-            "id": "9e276003324355e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Docker Compose.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker Compose"
+              "title": "Postgres Elements"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -206,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 395.5
   },
   "right": {
     "id": "14407ebf81517dfa",
@@ -294,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 385.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,22 +180,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "04109183e1f8e529",
+  "active": "10fa9181df52f631",
   "lastOpenFiles": [
-    "DATA.md",
-    "Docker/Docker Project (Visual Map).md",
-    "Postgres.md",
+    "PostgresSQL/Usage and Concepts.md",
+    "PostgresSQL/Postgres Elements.md",
+    "PostgresSQL/PostgresSQL.md",
+    "PostgresSQL",
+    "Docker/Intro.md",
+    "2025-09-29.md",
+    "DATA - Chapters.md",
+    "Docker/Chapters.md",
+    "Docker/Docker.md",
+    "Docker/Untitled.base",
+    "Docker/Workflow.md",
     "Docker/Docker Compose.md",
     "PgADmin.md",
-    "Docker/Workflow.md",
-    "Intro.md",
     "Docker/Image and Container.md",
     "Docker/Volumes.md",
-    "Docker",
-    "Docker/Docker.md",
+    "Docker/Docker Project (Visual Map).md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Docker/Command flow.md",
     "Docker/Docker Data Engineering Architecture.md",
-    "Welcome.md",
-    "Untitled.base",
-    "2025-09-29.md"
+    "Docker",
+    "Welcome.md"
   ]
 }

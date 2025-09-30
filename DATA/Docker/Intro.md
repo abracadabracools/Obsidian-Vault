@@ -45,39 +45,6 @@ Think of a container as a **mini-computer** inside your computer — it has its 
 
 ---
 
-## 🛠️ Typical Data Engineering Use Cases
-
-|Task|Docker Usage|
-|---|---|
-|🗃️ **Database setup**|Run `postgres:13` or `mysql` containers for local dev|
-|📥 **Data ingestion**|Package ETL scripts into containers and run them|
-|📊 **Orchestration**|Deploy Airflow or Prefect in Docker|
-|🧰 **Analytics stack**|Run tools like dbt, Superset, Metabase, Kafka|
-|☁️ **Deployment**|Ship the same container to cloud (GCP, AWS, etc.)|
-
----
-
-## 🧪 Example Workflow (ETL Pipeline)
-
-1. 🐘 Start Postgres database container
-    
-    `docker run -d --name pgdb -e POSTGRES_USER=root -e POSTGRES_PASSWORD=root postgres:13`
-    
-2. 🐍 Build and run ingestion container
-    
-    `docker build -t ingest:v1 . docker run -it --network=my_net ingest:v1 --db=ny_taxi --url=data.csv`
-    
-3. 📊 Connect with pgAdmin container
-    
-    `docker run -d --network=my_net -p 8080:80 dpage/pgadmin4`
-    
-4. ⚙️ Orchestrate all with Docker Compose
-    
-    `docker-compose up -d`
-    
-
----
-
 ## 💡 Quick Mental Model
 
 Think of Docker as a **“shipping container”** for software:
@@ -97,22 +64,6 @@ Think of Docker as a **“shipping container”** for software:
 
 ---
 
-## 🧠 Key Commands to Remember
-
-|Command|What It Does|
-|---|---|
-|`docker build -t myimage:v1 .`|Build an image from a Dockerfile|
-|`docker run -it myimage:v1`|Run a container interactively|
-|`docker ps`|List running containers|
-|`docker stop <container>`|Stop a container|
-|`docker rm <container>`|Remove a container|
-|`docker images`|List images|
-|`docker rmi <image>`|Remove an image|
-|`docker-compose up -d`|Start all services from a compose file|
-|`docker logs <container>`|View container logs|
-
----
-
 ## 🧭 Summary
 
 - 🐳 **Docker = containerization** → build once, run anywhere.
@@ -124,3 +75,9 @@ Think of Docker as a **“shipping container”** for software:
 - ⚙️ **Docker Compose** is your best friend for multi-service pipelines.
     
 - 💼 In data engineering, Docker is essential for **ETL, databases, orchestration, and deployment.**
+
+
+---
+**Next - [[PostgresSQL]]**
+
+
