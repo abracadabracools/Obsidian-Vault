@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PostgresSQL/Postgres Elements.md",
+                "file": "Docker/Workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Postgres Elements"
+              "title": "Workflow"
             }
           }
         ],
@@ -182,26 +182,29 @@
   },
   "active": "10fa9181df52f631",
   "lastOpenFiles": [
+    "Docker/Volumes.md",
+    "Docker/Intro.md",
+    "Docker/Implementation.md",
+    "Docker/Image and Container.md",
+    "Docker/Final run Checklist with Docker compose.md",
+    "Docker/Docker Project (Visual Map).md",
+    "Docker/Docker Data Engineering Architecture.md",
+    "Docker/Workflow.md",
+    "Docker/Docker Compose.md",
+    "Docker/misc",
+    "PostgresSQL/PgADmin.md",
     "PostgresSQL/Usage and Concepts.md",
     "PostgresSQL/Postgres Elements.md",
     "PostgresSQL/PostgresSQL.md",
+    "Docker/Docker.md",
+    "Docker/Command flow.md",
     "PostgresSQL",
-    "Docker/Intro.md",
     "2025-09-29.md",
     "DATA - Chapters.md",
     "Docker/Chapters.md",
-    "Docker/Docker.md",
     "Docker/Untitled.base",
-    "Docker/Workflow.md",
-    "Docker/Docker Compose.md",
-    "PgADmin.md",
-    "Docker/Image and Container.md",
-    "Docker/Volumes.md",
-    "Docker/Docker Project (Visual Map).md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Docker/Command flow.md",
-    "Docker/Docker Data Engineering Architecture.md",
     "Docker",
     "Welcome.md"
   ]
