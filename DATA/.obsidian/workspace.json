@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OPERATIONS.md",
+                "file": "INTERVIEW_DSA/LinkedLists/LL - OPERATIONS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OPERATIONS"
+              "title": "LL - OPERATIONS"
             }
           }
         ],
@@ -178,13 +178,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "1fa39b825017c5dd",
+  "active": "d6abe18fc17a0c85",
   "lastOpenFiles": [
-    "OPERATIONS.md",
-    "Pasted image 20251029073424.png",
-    "Pasted image 20251029065957.png",
     "INTERVIEW_DSA/LinkedLists/code for LL.md",
+    "INTERVIEW_DSA/LinkedLists/LL - OPERATIONS.md",
+    "Edge-cases.md",
+    "INTERVIEW_DSA/LinkedLists/LL-Basics.md",
     "INTERVIEW_DSA/LinkedLists/LL-Representation.md",
+    "INTERVIEW_DSA/LinkedLists/LL-Glossary.md",
+    "_Images/Pasted image 20251029073424.png",
+    "_Images/Pasted image 20251029065957.png",
     "Hobby/zero.md",
     "_Images/Pasted image 20251028083230.png",
     "_Images/Pasted image 20251028083140.png",
@@ -196,9 +199,7 @@
     "Hobby",
     "_Images/Pasted image 20251025080654.png",
     "INTERVIEW_DSA/LinkedLists/Big-O.md",
-    "INTERVIEW_DSA/LinkedLists/LL-Glossary.md",
     "_Images",
-    "INTERVIEW_DSA/LinkedLists/LL-Basics.md",
     "DSA_ Glossary.md",
     "DE/DATA - Chapters.md",
     "DE/Docker/Intro.md",
@@ -213,7 +214,6 @@
     "INTERVIEW_DSA/Arrays/array-tasks/min-max.md",
     "INTERVIEW_DSA/Arrays/array-tasks/second-min-max.md",
     "INTERVIEW_DSA/LinkedLists",
-    "Edge-cases.md",
     "Min/max.md",
     "Min",
     "INTERVIEW_DSA/Arrays/array-tasks",
