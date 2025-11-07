@@ -36,4 +36,4 @@
 ![[Pasted image 20251028083230.png]]
 
 ---
-[[OPERATIONS]]
+[[LL - OPERATIONS]]
