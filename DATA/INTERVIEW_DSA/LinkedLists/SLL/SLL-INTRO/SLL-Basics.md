@@ -1,6 +1,4 @@
 
-[[LL-Glossary]]
-
 ---
 
 List is indexed 

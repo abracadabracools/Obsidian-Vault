@@ -29,4 +29,4 @@ Interacting with LL
 ![[Pasted image 20251025080654.png]]
 
 ---
-[[code for LL]]
+[[code for SLL]]
