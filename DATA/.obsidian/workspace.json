@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTERVIEW_DSA/LinkedLists/DLL/DLL-Menu.md",
+                "file": "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-PRINT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DLL-Menu"
-            }
-          },
-          {
-            "id": "2d03fa01c2b4b714",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "SLL-PRINT"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -118,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-PRINT.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for SLL-PRINT"
             }
           },
           {
@@ -201,49 +189,49 @@
       "bases:Create new base": false
     }
   },
-  "active": "2d03fa01c2b4b714",
+  "active": "80864296a949dbb1",
   "lastOpenFiles": [
-    "INTERVIEW_DSA/LinkedLists/DLL/DLL-POP-FIRST.md",
-    "_Images/Pasted image 20251112142207.png",
-    "_Images/Pasted image 20251112142122.png",
-    "_Images/Pasted image 20251112141933.png",
-    "_Images/Pasted image 20251112141733.png",
-    "INTERVIEW_DSA/LinkedLists/DLL/DLL-Menu.md",
-    "INTERVIEW_DSA/LinkedLists/DLL/DLL-OPerations/DLL-PREPEND.md",
-    "_Images/Pasted image 20251112141338.png",
-    "_Images/Pasted image 20251112141315.png",
-    "_Images/Pasted image 20251112141203.png",
-    "_Images/Pasted image 20251112141139.png",
-    "INTERVIEW_DSA/LinkedLists/DLL/DLL-OPerations/DLL-POP.md",
-    "_Images/Pasted image 20251112135727.png",
-    "_Images/Pasted image 20251112135609.png",
-    "DLL-append.md",
-    "INTERVIEW_DSA/LinkedLists/DLL/DLL-OPerations/DLL-Basics.md",
     "INTERVIEW_DSA/LinkedLists/SLL/Menu-SLL.md",
-    "INTERVIEW_DSA/LinkedLists/DLL/DLL-OPerations",
-    "INTERVIEW_DSA/LinkedLists/DLL",
-    "SLL-INSERT.md",
-    "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-SET.md",
+    "INTERVIEW_DSA/LinkedLists/SLL/SLL-INTRO/code for SLL.md",
+    "INTERVIEW_DSA/LinkedLists/SLL/SLL-INTRO/SLL-Representation.md",
     "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-PRINT.md",
     "INTERVIEW_DSA/LinkedLists/SLL/SLL-INTRO/SLL-Basics.md",
-    "INTERVIEW_DSA/LinkedLists/SLL/SLL-INTRO/SLL-Representation.md",
     "INTERVIEW_DSA/LinkedLists/SLL/SLL-INTRO/Big-O.md",
+    "INTERVIEW_DSA/LinkedLists/DLL/DLL-Remove.md",
+    "_Images/Pasted image 20251113101041.png",
+    "_Images/Pasted image 20251113101010.png",
+    "_Images/Pasted image 20251113100937.png",
+    "_Images/Pasted image 20251113100817.png",
+    "_Images/Pasted image 20251113100642.png",
+    "_Images/Pasted image 20251113100608.png",
+    "_Images/Pasted image 20251113100424.png",
+    "_Images/Pasted image 20251113100337.png",
+    "INTERVIEW_DSA/LinkedLists/DLL/DLL-Menu.md",
+    "INTERVIEW_DSA/LinkedLists/DLL/DLL-OPerations/DLL-GET.md",
+    "Edge-cases.md",
+    "DSA_ Glossary.md",
+    "INTERVIEW_DSA/LinkedLists/DLL/DLL-OPerations/DLL-INSERT.md",
+    "_Images/Pasted image 20251113100117.png",
+    "_Images/Pasted image 20251113100050.png",
+    "INTERVIEW_DSA/LinkedLists/DLL/DLL-OPerations/DLL-SET.md",
+    "INTERVIEW_DSA/LinkedLists/DLL/DLL-OPerations/DLL-POP-FIRST.md",
+    "INTERVIEW_DSA/LinkedLists/DLL/DLL-OPerations/DLL-PREPEND.md",
+    "INTERVIEW_DSA/LinkedLists/DLL/DLL-OPerations/DLL-POP.md",
+    "INTERVIEW_DSA/LinkedLists/DLL/DLL-OPerations/DLL-append.md",
+    "INTERVIEW_DSA/LinkedLists/DLL/DLL-OPerations/DLL-Basics.md",
+    "INTERVIEW_DSA/LinkedLists/DLL/DLL-OPerations",
+    "INTERVIEW_DSA/LinkedLists/DLL",
+    "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-INSERT.md",
+    "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-SET.md",
     "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-GET.md",
     "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-POP-FIRST.md",
     "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/Menu- OPERATIONS-SLL.md",
     "INTERVIEW_DSA/LinkedLists/SLL/SLL-INTRO",
     "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS",
     "INTERVIEW_DSA/LinkedLists/SLL",
-    "INTERVIEW_DSA/LinkedLists/SLL/SLL-INTRO/code for SLL.md",
     "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-PREPEND.md",
     "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-POP LAST.md",
-    "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-APPEND.md",
     "Untitled.canvas",
-    "Edge-cases.md",
-    "DSA_ Glossary.md",
-    "INTERVIEW_DSA/Arrays/array-tasks/second-min-max.md",
-    "INTERVIEW_DSA/Arrays/array-tasks/min-max.md",
-    "Hobby/zero.md",
     "Hobby",
     "_Images",
     "INTERVIEW_DSA/LinkedLists",

@@ -36,4 +36,3 @@
 ![[Pasted image 20251028083230.png]]
 
 ---
-[[Menu- OPERATIONS-SLL]]

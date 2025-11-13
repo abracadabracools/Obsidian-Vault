@@ -24,4 +24,3 @@ List - Contiguous in memory
 
 ---
 
-[[Big-O]]

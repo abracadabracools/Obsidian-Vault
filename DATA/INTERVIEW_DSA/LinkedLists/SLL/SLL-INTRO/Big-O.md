@@ -6,4 +6,3 @@
 ![[Pasted image 20251025074818.png]]     ---
 
 ---
-[[SLL-Representation]]

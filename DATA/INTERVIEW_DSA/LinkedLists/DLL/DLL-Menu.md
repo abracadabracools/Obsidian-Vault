@@ -7,4 +7,6 @@
 	3. [[DLL-PREPEND]]
 	4. [[DLL-POP-FIRST]]
 	5. [[DLL-GET]]
-	6. 
+	6. [[DLL-SET]]
+	7. [[DLL-INSERT]]
+	8. [[DLL-Remove]]
