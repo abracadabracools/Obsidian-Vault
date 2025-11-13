@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "rightToLeft": true,
-  "attachmentFolderPath": "_Images"
+  "attachmentFolderPath": "_Images",
+  "newFileLocation": "current"
 }
