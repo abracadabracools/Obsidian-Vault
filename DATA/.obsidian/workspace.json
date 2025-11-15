@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-PRINT.md",
+                "file": "INTERVIEW_DSA/LinkedLists/SLL/Menu-SLL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SLL-PRINT"
+              "title": "Menu-SLL"
             }
           }
         ],
@@ -105,8 +105,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-PRINT.md",
-                "collapseAll": true,
+                "file": "INTERVIEW_DSA/LinkedLists/SLL/Menu-SLL.md",
+                "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SLL-PRINT"
+              "title": "Backlinks for Menu-SLL"
             }
           },
           {
@@ -189,12 +189,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "80864296a949dbb1",
+  "active": "01bb6146268b5517",
   "lastOpenFiles": [
+    "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-APPEND.md",
     "INTERVIEW_DSA/LinkedLists/SLL/Menu-SLL.md",
+    "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-POP LAST.md",
+    "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-PRINT.md",
     "INTERVIEW_DSA/LinkedLists/SLL/SLL-INTRO/code for SLL.md",
     "INTERVIEW_DSA/LinkedLists/SLL/SLL-INTRO/SLL-Representation.md",
-    "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-PRINT.md",
     "INTERVIEW_DSA/LinkedLists/SLL/SLL-INTRO/SLL-Basics.md",
     "INTERVIEW_DSA/LinkedLists/SLL/SLL-INTRO/Big-O.md",
     "INTERVIEW_DSA/LinkedLists/DLL/DLL-Remove.md",
@@ -230,7 +232,6 @@
     "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS",
     "INTERVIEW_DSA/LinkedLists/SLL",
     "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-PREPEND.md",
-    "INTERVIEW_DSA/LinkedLists/SLL/SLL-OPERATIONS/SLL-POP LAST.md",
     "Untitled.canvas",
     "Hobby",
     "_Images",

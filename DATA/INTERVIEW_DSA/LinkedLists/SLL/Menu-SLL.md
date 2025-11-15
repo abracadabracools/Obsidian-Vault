@@ -13,5 +13,17 @@
 	6. [[SLL-GET]]
 	7. [[SLL-SET]]
 	8. [[SLL-INSERT]]
-	9. 
+	
 ---
+
+
+| Sl. no. | Operation  | Cases              | Pointers                      | Note                                                                                    |
+| ------- | ---------- | ------------------ | ----------------------------- | --------------------------------------------------------------------------------------- |
+| 1       | *printing* | same for all cases | 1. temp                       | - temp variable to translate and print                                                  |
+| 2       | *append*   | 1. empty           | 0. None                       | - checking head is none and then pointing head and tail to new node                     |
+|         |            | 2. normal          | 0. None                       | - make tail point to new node and make new node the tail                                |
+| 3       | *pop*      | 1. empty           | 0. None                       | - return none - check for length or head                                                |
+|         |            | 2. only one        | 0. None                       | - either check at last or check for length==1 and return head                           |
+|         |            | 3. normal          | two pointers - 1. temp 2. pre | - two pointers - temp and pre. temp moves in front. when temp.next == None - pop - pre. |
+|         |            |                    |                               |                                                                                         |
+|         |            |                    |                               |                                                                                         |
