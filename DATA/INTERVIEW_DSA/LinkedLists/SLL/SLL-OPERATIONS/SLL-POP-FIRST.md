@@ -1,5 +1,9 @@
 
 ---
+- There are three cases 
+	- two classic edge cases - empty and only one node
+	-  normal case
+---
 
 edge case-1
 ![[Pasted image 20251111143002.png]]

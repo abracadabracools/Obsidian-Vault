@@ -25,5 +25,9 @@
 | 3       | *pop*      | 1. empty           | 0. None                       | - return none - check for length or head                                                |
 |         |            | 2. only one        | 0. None                       | - either check at last or check for length==1 and return head                           |
 |         |            | 3. normal          | two pointers - 1. temp 2. pre | - two pointers - temp and pre. temp moves in front. when temp.next == None - pop - pre. |
+| 4       | prepend    | 1. empty           | 0. None                       | - if length = 0 , make new node  = head , tail                                          |
+|         |            | 2. normal          | 0. None                       | - make new node point to head and make new node as head                                 |
+|         |            |                    |                               |                                                                                         |
+|         |            |                    |                               |                                                                                         |
 |         |            |                    |                               |                                                                                         |
 |         |            |                    |                               |                                                                                         |
