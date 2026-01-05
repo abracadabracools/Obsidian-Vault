@@ -1,0 +1,15 @@
+
+---
+1- Empty case
+
+![[Pasted image 20260105204253.png]]
+
+![[Pasted image 20260105204224.png]]
+
+2- Normal case
+
+![[Pasted image 20260105204354.png]]
+
+3- Final Code
+
+![[Pasted image 20260105204425.png]]

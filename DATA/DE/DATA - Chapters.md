@@ -2,7 +2,7 @@
 
 Glossary of the knowledge !!
 
-- [[Intro]]
+- [[DE/Docker/Intro]]
 - [[PostgresSQL]]
 
 ------------------------------------------
