@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80864296a949dbb1",
+            "id": "7f5320c7f204b368",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTERVIEW_DSA/4.Queue/Queue-menu.md",
+                "file": "INTERVIEW_DSA/5.Trees/4 - BST - BigO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Queue-menu"
-            }
-          },
-          {
-            "id": "e76d32cbcde733b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INTERVIEW_DSA/Misc/Edge-cases.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Edge-cases"
+              "title": "4 - BST - BigO"
             }
           }
         ],
@@ -129,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTERVIEW_DSA/4.Queue/Queue-menu.md",
+                "file": "INTERVIEW_DSA/5.Trees/4 - BST - BigO.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Queue-menu"
+              "title": "Backlinks for 4 - BST - BigO"
             }
           },
           {
@@ -227,54 +203,55 @@
       "bases:Create new base": false
     }
   },
-  "active": "80864296a949dbb1",
+  "active": "7f5320c7f204b368",
   "lastOpenFiles": [
-    "INTERVIEW_DSA/3.Stack/ST-POP.md",
-    "INTERVIEW_DSA/Misc",
-    "INTERVIEW_DSA/4.Queue/Queue-menu.md",
-    "INTERVIEW_DSA/4.Queue/Q-Dequeue.md",
-    "_Images/Pasted image 20260105204736.png",
-    "_Images/Pasted image 20260105204711.png",
-    "_Images/Pasted image 20260105204639.png",
-    "_Images/Pasted image 20260105204546.png",
-    "INTERVIEW_DSA/4.Queue/Q-Enqueue.md",
-    "_Images/Pasted image 20260105204425.png",
-    "_Images/Pasted image 20260105204354.png",
-    "_Images/Pasted image 20260105204253.png",
-    "_Images/Pasted image 20260105204224.png",
-    "INTERVIEW_DSA/4.Queue/Q-Constructor.md",
-    "_Images/Pasted image 20260105203737.png",
-    "_Images/Pasted image 20260105203657.png",
-    "INTERVIEW_DSA/4.Queue/Q-Intro.md",
-    "INTERVIEW_DSA/3.Stack/Menu - Stacks.md",
-    "INTERVIEW_DSA/3.Stack/STACK-INTRO.md",
+    "_Images/Pasted image 20260218230941.png",
+    "INTERVIEW_DSA/5.Trees/Menu-Trees.md",
+    "INTERVIEW_DSA/5.Trees/4 - BST - BigO.md",
+    "INTERVIEW_DSA/5.Trees/3 - BST - intro.md",
+    "_Images/Pasted image 20260218230806.png",
+    "_Images/Pasted image 20260218230746.png",
+    "_Images/Pasted image 20260218230709.png",
+    "_Images/Pasted image 20260218230641.png",
+    "_Images/Pasted image 20260218230339.png",
+    "INTERVIEW_DSA/5.Trees/1.Trees-Intro.md",
+    "_Images/Pasted image 20260218230123.png",
+    "_Images/Pasted image 20260218230046.png",
+    "_Images/Pasted image 20260218230025.png",
+    "INTERVIEW_DSA/5.Trees/2 - Types of Trees.md",
+    "_Images/Pasted image 20260218225945.png",
+    "_Images/Pasted image 20260218161759.png",
+    "INTERVIEW_DSA/4.Queue/3.Q-Enqueue.md",
+    "INTERVIEW_DSA/5.Trees",
+    "INTERVIEW_DSA/3.Stack/4.ST-POP.md",
+    "INTERVIEW_DSA/3.Stack/2.ST-Constructor.md",
+    "INTERVIEW_DSA/3.Stack/1.STACK-INTRO.md",
+    "INTERVIEW_DSA/3.Stack/0.Menu - Stacks.md",
+    "INTERVIEW_DSA/3.Stack/3.ST-PUSH.md",
+    "INTERVIEW_DSA/2.LinkedLists/1.DLL/0.DLL-Menu.md",
+    "INTERVIEW_DSA/4.Queue/0.Queue-menu.md",
+    "INTERVIEW_DSA/4.Queue/2.Q-Constructor.md",
+    "INTERVIEW_DSA/4.Queue/1.Q-Intro.md",
+    "INTERVIEW_DSA/4.Queue/4.Q-Dequeue.md",
+    "Misc",
     "INTERVIEW_DSA/4.Queue",
-    "INTERVIEW_DSA/3.Stack/ST-PUSH.md",
-    "INTERVIEW_DSA/3.Stack/ST-Constructor.md",
-    "INTERVIEW_DSA/2.LinkedLists/DLL/DLL-Menu.md",
-    "INTERVIEW_DSA/Trees",
+    "INTERVIEW_DSA/5.Trees",
     "INTERVIEW_DSA/3.Stack",
-    "INTERVIEW_DSA/2.LinkedLists/DLL/DLL-OPerations/DLL-SET.md",
-    "INTERVIEW_DSA/2.LinkedLists/DLL/DLL-OPerations/DLL-Remove.md",
-    "INTERVIEW_DSA/2.LinkedLists/DLL/DLL-OPerations/DLL-PREPEND.md",
-    "INTERVIEW_DSA/2.LinkedLists/DLL/DLL-OPerations/DLL-POP-FIRST.md",
-    "INTERVIEW_DSA/2.LinkedLists/DLL/DLL-OPerations/DLL-POP.md",
-    "INTERVIEW_DSA/2.LinkedLists/DLL/DLL-OPerations/DLL-INSERT.md",
-    "INTERVIEW_DSA/2.LinkedLists/DLL/DLL-OPerations/DLL-GET.md",
-    "INTERVIEW_DSA/2.LinkedLists/DLL/DLL-OPerations/DLL-append.md",
-    "INTERVIEW_DSA/2.LinkedLists/DLL/DLL-OPerations/DLL-Basics.md",
-    "INTERVIEW_DSA/2.LinkedLists/SLL/Menu-SLL.md",
-    "INTERVIEW_DSA/2.LinkedLists/SLL/SLL-OPERATIONS/SLL-INSERT.md",
-    "INTERVIEW_DSA/2.LinkedLists/SLL/SLL-OPERATIONS/SLL-SET.md",
-    "INTERVIEW_DSA/2.LinkedLists/SLL/SLL-OPERATIONS/SLL-GET.md",
-    "INTERVIEW_DSA/2.LinkedLists/SLL/SLL-INTRO/code for SLL.md",
-    "INTERVIEW_DSA/2.LinkedLists/DLL/DLL-OPerations",
-    "INTERVIEW_DSA/2.LinkedLists/DLL",
-    "INTERVIEW_DSA/2.LinkedLists/SLL/SLL-INTRO",
-    "INTERVIEW_DSA/2.LinkedLists/SLL/SLL-OPERATIONS",
-    "INTERVIEW_DSA/2.LinkedLists/SLL",
+    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-SET.md",
+    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-Remove.md",
+    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-PREPEND.md",
+    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-POP-FIRST.md",
+    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-POP.md",
+    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-INSERT.md",
+    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-GET.md",
+    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-append.md",
+    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-Basics.md",
+    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations",
+    "INTERVIEW_DSA/2.LinkedLists/1.DLL",
+    "INTERVIEW_DSA/2.LinkedLists/0.SLL/SLL-INTRO",
+    "INTERVIEW_DSA/2.LinkedLists/0.SLL/SLL-OPERATIONS",
+    "INTERVIEW_DSA/2.LinkedLists/0.SLL",
     "Untitled.canvas",
-    "Hobby",
     "Untitled 1.canvas"
   ]
 }
