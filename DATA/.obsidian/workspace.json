@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f5320c7f204b368",
+            "id": "927e3719245f7f48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTERVIEW_DSA/5.Trees/4 - BST - BigO.md",
+                "file": "INTERVIEW_DSA/0-14-patterns/1. Sliding Window.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1. Sliding Window"
+            }
+          },
+          {
+            "id": "00e9cdde64ff9f37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML-0-20/ML-menu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4 - BST - BigO"
+              "title": "ML-menu"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -105,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTERVIEW_DSA/5.Trees/4 - BST - BigO.md",
+                "file": "ML-0-20/ML-menu.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +140,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4 - BST - BigO"
+              "title": "Backlinks for ML-menu"
             }
           },
           {
@@ -203,54 +228,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "7f5320c7f204b368",
+  "active": "00e9cdde64ff9f37",
   "lastOpenFiles": [
-    "_Images/Pasted image 20260218230941.png",
-    "INTERVIEW_DSA/5.Trees/Menu-Trees.md",
-    "INTERVIEW_DSA/5.Trees/4 - BST - BigO.md",
-    "INTERVIEW_DSA/5.Trees/3 - BST - intro.md",
-    "_Images/Pasted image 20260218230806.png",
-    "_Images/Pasted image 20260218230746.png",
-    "_Images/Pasted image 20260218230709.png",
-    "_Images/Pasted image 20260218230641.png",
-    "_Images/Pasted image 20260218230339.png",
-    "INTERVIEW_DSA/5.Trees/1.Trees-Intro.md",
-    "_Images/Pasted image 20260218230123.png",
-    "_Images/Pasted image 20260218230046.png",
-    "_Images/Pasted image 20260218230025.png",
-    "INTERVIEW_DSA/5.Trees/2 - Types of Trees.md",
-    "_Images/Pasted image 20260218225945.png",
-    "_Images/Pasted image 20260218161759.png",
+    "INTERVIEW_DSA/0-14-patterns/1. Sliding Window.md",
+    "ML-0-20/10-Capstone-2",
+    "ML-0-20/9-Capstone-1",
+    "ML-0-20/8-kubernetes",
+    "ML-0-20/7-serverless",
+    "ML-0-20/6-Neural-Networks",
+    "ML-0-20/5.5-Miderm-Project",
+    "ML-0-20/5-decision trees",
+    "ML-0-20/4-deployment",
+    "ML-0-20/3-evaluation",
+    "ML-0-20/2-classification",
+    "ML-0-20/ML-menu.md",
+    "INTERVIEW_DSA/0-14-patterns/Sliding Window.md",
+    "INTERVIEW_DSA/0-14-patterns/menu-patterns.md",
+    "INTERVIEW_DSA/6.Trees/7 - BST - Contains.md",
+    "INTERVIEW_DSA/Syllabus-checklist.md",
+    "_Images/Pasted image 20260424212611.png",
+    "_Images/Pasted image 20260424212520.png",
+    "INTERVIEW_DSA/6.Trees/Menu-Trees.md",
+    "INTERVIEW_DSA/6.Trees/6 - BST - Insert.md",
+    "_Images/Pasted image 20260424212403.png",
+    "_Images/Pasted image 20260424212229.png",
+    "_Images/Pasted image 20260424212054.png",
+    "INTERVIEW_DSA/6.Trees/5 - BST-Constructor.md",
+    "_Images/Pasted image 20260424211910.png",
+    "_Images/Pasted image 20260424211450.png",
+    "_Images/Pasted image 20260424211425.png",
+    "INTERVIEW_DSA/6.Trees/4 - BST - BigO.md",
+    "_Images/Pasted image 20260424211320.png",
+    "_Images/Pasted image 20260424211047.png",
+    "INTERVIEW_DSA/3.LinkedLists/0.SLL/SLL-OPERATIONS/SLL-APPEND.md",
+    "INTERVIEW_DSA/3.LinkedLists/0.SLL/SLL-INTRO/SLL-Representation.md",
+    "INTERVIEW_DSA/3.LinkedLists/0.SLL/SLL-INTRO/SLL-Basics.md",
+    "INTERVIEW_DSA/3.LinkedLists/0.SLL/SLL-INTRO/code for SLL.md",
+    "INTERVIEW_DSA/5.Stack/1.STACK-INTRO.md",
     "INTERVIEW_DSA/4.Queue/3.Q-Enqueue.md",
-    "INTERVIEW_DSA/5.Trees",
-    "INTERVIEW_DSA/3.Stack/4.ST-POP.md",
-    "INTERVIEW_DSA/3.Stack/2.ST-Constructor.md",
-    "INTERVIEW_DSA/3.Stack/1.STACK-INTRO.md",
-    "INTERVIEW_DSA/3.Stack/0.Menu - Stacks.md",
-    "INTERVIEW_DSA/3.Stack/3.ST-PUSH.md",
-    "INTERVIEW_DSA/2.LinkedLists/1.DLL/0.DLL-Menu.md",
+    "INTERVIEW_DSA/6.Trees/1.Trees-Intro.md",
+    "INTERVIEW_DSA/6.Trees/2 - Types of Trees.md",
+    "INTERVIEW_DSA/6.Trees/3 - BST - intro.md",
+    "INTERVIEW_DSA/5.Stack/4.ST-POP.md",
+    "INTERVIEW_DSA/5.Stack/2.ST-Constructor.md",
+    "INTERVIEW_DSA/5.Stack/0.Menu - Stacks.md",
+    "INTERVIEW_DSA/5.Stack/3.ST-PUSH.md",
+    "INTERVIEW_DSA/3.LinkedLists/1.DLL/0.DLL-Menu.md",
     "INTERVIEW_DSA/4.Queue/0.Queue-menu.md",
-    "INTERVIEW_DSA/4.Queue/2.Q-Constructor.md",
-    "INTERVIEW_DSA/4.Queue/1.Q-Intro.md",
-    "INTERVIEW_DSA/4.Queue/4.Q-Dequeue.md",
-    "Misc",
-    "INTERVIEW_DSA/4.Queue",
-    "INTERVIEW_DSA/5.Trees",
-    "INTERVIEW_DSA/3.Stack",
-    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-SET.md",
-    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-Remove.md",
-    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-PREPEND.md",
-    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-POP-FIRST.md",
-    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-POP.md",
-    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-INSERT.md",
-    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-GET.md",
-    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-append.md",
-    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations/DLL-Basics.md",
-    "INTERVIEW_DSA/2.LinkedLists/1.DLL/DLL-OPerations",
-    "INTERVIEW_DSA/2.LinkedLists/1.DLL",
-    "INTERVIEW_DSA/2.LinkedLists/0.SLL/SLL-INTRO",
-    "INTERVIEW_DSA/2.LinkedLists/0.SLL/SLL-OPERATIONS",
-    "INTERVIEW_DSA/2.LinkedLists/0.SLL",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
